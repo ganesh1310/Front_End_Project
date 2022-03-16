@@ -1,0 +1,39 @@
+.card {
+    cursor: pointer
+}
+
+.hd {
+    font-size: 26px;
+    font-weight: 550
+}
+
+.card.hover,
+.card:hover {
+    box-shadow: 0 20px 40px rgba(0, 0, 0, .2)
+}
+
+.img {
+    margin-bottom: 35px;
+}
+
+.img3{
+    height: 230px;
+    width: 230px;
+}
+.card-title {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.card-subtitle{
+    font-size: 16px;
+}
+
+.chk {
+    margin-bottom: 5px
+}
+
+.rck {
+    margin-top: 20px;
+    padding-bottom: 15px;
+}
